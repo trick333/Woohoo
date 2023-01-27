@@ -1,0 +1,30 @@
+SNORT
+
+Go to snort.org and download the first rules tar file and the last file for ece.
+Extract the rules tar file
+Install npcap from npcap.com
+Install the appl using the exe file which creates a folder in c drive
+Paste the rules from extracted rules folder to C:/Snort/rules
+Copy snort.conf from etc folder of extracted file to C:/Snort/etc
+Open cmd in Snort bin folder
+Type Snort - W command
+From the list select the first proper ip addr
+Type: snort -dev -i4 (here 4 is the no where proper ip addr is present from the list)
+
+
+NSTALKER
+
+Typer n stalker and go to the first official website and click on download
+Fill details and link will come in inbox or spam and download the rar file
+Extract rar to get the exe file
+Run the exe file and install it
+In the appl, click update first
+Start scan btn on top left
+Type URL, select full XSS Assessment, click Next, click optimize then click start session
+On the top left click start scan and output comes in the bottom.
+
+
+GMER
+
+Go to gmer's website and download exe file
+Install it and press scan in the appl
